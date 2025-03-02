@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/SQLconnection.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/Bookparking.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/Administrator.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/logout.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/QRCODE/ParkingDetails.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/UserDetails.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/cost_update.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/Book_parking.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/Users.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/parking_cost1.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/index.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/Logs/User.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/QRCODE/QRGen.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/CheckParking.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/UserHome.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/your_bookings.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/QRCODE/slot_booking.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/Reg/UserRegister.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/Bookings.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/AdminHome.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/ParkingLogs1.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/QRCODE/QRReader.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/TCHome.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/TicketChecker.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/Logs/Adminlog.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/ParkingCost.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/verifyTicket.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/URegister.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/css/style.css</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/ParkingLogs.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/DownloadTicket.jsp</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/src/java/VehicleParking/Logs/TCLogs.java</file>
+            <file>file:/V:/JPJA23056-QR%20Code-based%20Smart%20Vehicle%20Parking/JPJA2305-QR%20Code-based%20Smart%20Vehicle%20Parking/SOURCE%20CODE/QRBasedVehicleParking/web/qrpic.jsp</file>
+        </group>
+    </open-files>
+</project-private>
